@@ -1,0 +1,7 @@
+pip install streamlit
+pip install pandas
+pip install textblob
+pip install fastapi
+pip install uvicorn
+
+python -m streamlit run frontend\app.py
